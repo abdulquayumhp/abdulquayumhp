@@ -1,5 +1,5 @@
 ![banner](https://i.ibb.co/3p29jZg/Beige-Minimalist-Profile-Linked-In-Banner-2.jpg)
-<h1 align="center">Hi 👋, I'm Amit Sarker</h1>
+<h1 align="center">Hi 👋, I'm MD ABDUL QUAYUM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
