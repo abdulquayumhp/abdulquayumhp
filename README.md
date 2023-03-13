@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at (https://abdulquayum-hp.netlify.app/)
+- 👨‍💻 All of my projects are available at https://abdulquayum-hp.netlify.app/
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **amitsarker255@gmail.com**
+- 📫 How to reach me **abdulquayumdev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h3X1Mr9-3ld5IYJ-Zo879V6Zo50nt2hG/view?usp=sharing](https://drive.google.com/file/d/1Pqm-1BVEOgvajTYgwDI91ZRP8MyqP5hB/view?usp=share_link)
 
