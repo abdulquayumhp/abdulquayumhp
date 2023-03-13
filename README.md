@@ -33,7 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulquayumhp&show_icons=true&locale=en" alt="amit-sarker-00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-sarker-00&" alt="amit-sarker-00" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquayumhp
+&" alt="abdulquayumhp" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/abdulquayumhp&show_icons=true&count_private=true)  
 
