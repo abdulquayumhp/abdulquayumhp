@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://thriving-cocada-7f05ea.netlify.app/](https://thriving-cocada-7f05ea.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://thriving-cocada-7f05ea.netlify.app/](https://abdulquayum-hp.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
