@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/3p29jZg/Beige-Minimalist-Profile-Linked-In-Banner-2.jpg)
+![banner](https://i.ibb.co/5WcsvP5/www-reallygreatsite-com.png)
 <h1 align="center">Hi 👋, I'm MD ABDUL QUAYUM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
